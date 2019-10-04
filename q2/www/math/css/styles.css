@@ -86,15 +86,8 @@ nav ul li:hover ul a {
 nav ul li ul li a:hover{
   background-color: #f3f3f3;
 }
+/*BODY*/
 
-/*headings*/
-.heading h1{
-  text-shadow:
-    -1px -1px 0 #000,
-		1px -1px 0 #000,
-		-1px 1px 0 #000,
-		1px 1px 0 #000;
-}
 body{
   background-color: seashell;
 }
@@ -105,12 +98,13 @@ h2{
   padding-left: 20px;
   font-size: 50px;
 }
+
 .Web {
   font-size: 24px;
   color: seashell;
   padding: 30px;
   /*margin: 20px;*/
-  background-color: #cc003b;
+  background-color: mediumslateblue;
   border-radius: 10px;
   float: left;
   /*width: 100%;*/
@@ -143,15 +137,15 @@ h2{
   font-size: 24px;
   color: seashell;
   padding: 30px;
+  padding-top: 225px;
+  padding-bottom: 225px;
 
   /*margin: 20px;*/
-  background-color: #cc003b;
+  background-color: mediumslateblue;
   border-radius: 10px;
   float: left;
   /*width: 100%;*/
   margin: 20px;
-  padding-top: 225px;
-  padding-bottom: 225px;
 }
 
 .Machine h3{

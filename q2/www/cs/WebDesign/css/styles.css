@@ -21,7 +21,7 @@ nav p a{
   font-family: Quicksand, sans-serif;
   color: seashell;
   font-size: 40px;
-  line-height: 55px;
+  line-height: 70px;
   float: left;
   padding: 0px 20px;
   text-decoration: none;
@@ -50,6 +50,8 @@ nav ul li a{
   padding: 22px 14px;
   text-decoration: none;
   text-align: left;
+  line-height: 35px;
+
 }
 nav ul li ul a:hover{
   color: #99003b;
@@ -99,11 +101,11 @@ h1{
   font-size: 24px;
   color: seashell;
   padding: 30px;
-  opacity: 0.7;
   margin: 20px;
   background-color: #cc003b;
-  opacity: 0.7;
   border-radius: 10px;
+  padding-top: 100px;
+  padding-bottom: 100px;
 }
 .Intro p{
   padding-top: 30px;
@@ -115,13 +117,15 @@ h1{
   padding: 30px;
   background-color: #66003b;
   margin: 20px;
-  opacity: 0.7;
   border-radius: 10px;
   font-size: 24px;
+  padding-top: 40px;
+  padding-bottom: 40px;
 }
 
-.Prof h4{
-  padding-top: 30px;
+.Prof h3{
+  font-size: 35px;
+  padding-bottom: 20px;
 }
 
 
